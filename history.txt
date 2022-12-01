@@ -1,0 +1,50 @@
+  106  grep "France,2019,PHP" > php_france_2019.csv
+  107  grep "France,2019,PHP" wilders.csv > php_france_2019.csv
+  108  head php_france_2019.csv
+  109  grep "Toulouse,Biarritz,Java" wilders.csv > javascript_biarritz_toulouse.csv
+  110  cat javascrip_biarritz_toulouse.csv
+  111  cat javascript_biarritz_toulouse.csv
+  112  head javascript_biarritz_toulouse.csv
+  113  cat javascript_biarritz_toulouse.csv
+  114  grep "Toulouse,Biarritz,Java" wilders.csv > javascript_biarritz_toulouse.csv
+  115  cat javascript_biarritz_toulouse.csv
+  116  grep "Toulouse,Java" wilders.csv > javascript_biarritz_toulouse.csv
+  117  cat javascript_biarritz_toulouse.csv
+  118  cat wilders.csv
+  119  rm php_france_2019.csv
+  120  rm javascript_biarritz_toulouse.csv
+  121  rm wilders.csv
+  122  find
+  123  rm Toulouse.csv Biarritz.csv
+  124  find
+  125  rm java.csv history.csv
+  126  find
+  127  rm java.csv history.txt
+  128  wget https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv  
+  129  grep "PHP,France,2019" > php_france_2019.csv
+  130  grep "France,2019,PHP" wilders.csv > php_france_2019.csv
+  131  head php_france_2019_csv
+  132  find
+  133  touch php_france_2019.csv
+  134  grep "France,2019,PHP" wilders.csv > php_france_2019.csv
+  135  head php_france_2019_csv
+  136  find
+  137  head php_france_2019.csv
+  138  touch javascript_biarritz_toulouse.csv
+  139  grep Javascript wilders.csv > java.csv
+  140  head java.csv
+  141  find
+  142  head java.csv
+  143  grep JavaScript wilders.csv > java.csv
+  144  head java.csv
+  145  grep Toulouse java.csv > Toulouse.csv
+  146  head Toulouse.csv
+  147  grep Biarritz java.csv > Biarritz.csv
+  148  head Biarritz.csv
+  149  cat Biarritz.csv Toulouse.csv > javascript_biarritz_toulouse.csv
+  150  cat javascript_biarritz_toulouse.csv
+  151  history | tail > history.txt
+  152  cat history.txt
+  153  history | tail -n15 > history.txt
+  154  cat history.txt
+  155  history | tail -n50 > history.txt
